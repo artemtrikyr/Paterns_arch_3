@@ -1,0 +1,15 @@
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/obj/Debug/net7.0/Paterns_arch_3.csproj.AssemblyReference.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/obj/Debug/net7.0/Paterns_arch_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/obj/Debug/net7.0/Paterns_arch_3.AssemblyInfoInputs.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/obj/Debug/net7.0/Paterns_arch_3.AssemblyInfo.cs
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/obj/Debug/net7.0/Paterns_arch_3.csproj.CoreCompileInputs.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/bin/Debug/net7.0/Paterns_arch_3
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/bin/Debug/net7.0/Paterns_arch_3.deps.json
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/bin/Debug/net7.0/Paterns_arch_3.runtimeconfig.json
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/bin/Debug/net7.0/Paterns_arch_3.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/bin/Debug/net7.0/Paterns_arch_3.pdb
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/obj/Debug/net7.0/Paterns_arch_3.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/obj/Debug/net7.0/refint/Paterns_arch_3.dll
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/obj/Debug/net7.0/Paterns_arch_3.pdb
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/obj/Debug/net7.0/Paterns_arch_3.genruntimeconfig.cache
+/Users/husll/Desktop/IT_at_all/2_курс/Шаблони проєктування/Paterns_arch_3/Paterns_arch_3/obj/Debug/net7.0/ref/Paterns_arch_3.dll
